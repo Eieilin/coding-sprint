@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43dda26a-660e-448a-b86b-a39edcddde7b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/coding_sprint$ex51.coverage" NAME="ex51 Coverage Results" MODIFIED="1529857972876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1529850941706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1529851042285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex25.coverage" NAME="ex25 Coverage Results" MODIFIED="1529852521064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1529850851401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex47_test.coverage" NAME="ex47_test Coverage Results" MODIFIED="1529857896608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex16.coverage" NAME="ex16 Coverage Results" MODIFIED="1529851915026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex31.coverage" NAME="ex31 Coverage Results" MODIFIED="1529853982906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex39.coverage" NAME="ex39 Coverage Results" MODIFIED="1529854495632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1529850960917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1529851544865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex17.coverage" NAME="ex17 Coverage Results" MODIFIED="1529852033961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex9.coverage" NAME="ex9 Coverage Results" MODIFIED="1529851021384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex14.coverage" NAME="ex14 Coverage Results" MODIFIED="1529851632875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex43.coverage" NAME="ex43 Coverage Results" MODIFIED="1529857748829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex44a.coverage" NAME="ex44a Coverage Results" MODIFIED="1529857837608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex23.coverage" NAME="ex23 Coverage Results" MODIFIED="1529852455121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex40.coverage" NAME="ex40 Coverage Results" MODIFIED="1529854515257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex19.coverage" NAME="ex19 Coverage Results" MODIFIED="1529852199150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex20.coverage" NAME="ex20 Coverage Results" MODIFIED="1529852250250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex28.coverage" NAME="ex28 Coverage Results" MODIFIED="1529853916450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1529850894267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1529851060059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex32.coverage" NAME="ex32 Coverage Results" MODIFIED="1529854060219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex7.coverage" NAME="ex7 Coverage Results" MODIFIED="1529850992252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex12.coverage" NAME="ex12 Coverage Results" MODIFIED="1529851106218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1529850819037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex38.coverage" NAME="ex38 Coverage Results" MODIFIED="1529854480001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex29.coverage" NAME="ex29 Coverage Results" MODIFIED="1529853942860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex41.coverage" NAME="ex41 Coverage Results" MODIFIED="1529855875671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex35.coverage" NAME="ex35 Coverage Results" MODIFIED="1529854304828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex50.coverage" NAME="ex50 Coverage Results" MODIFIED="1529857937402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex26.coverage" NAME="ex26 Coverage Results" MODIFIED="1529852612630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex30.coverage" NAME="ex30 Coverage Results" MODIFIED="1529853964872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex33.coverage" NAME="ex33 Coverage Results" MODIFIED="1529854093104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex21.coverage" NAME="ex21 Coverage Results" MODIFIED="1529852313718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1529850872937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex8.coverage" NAME="ex8 Coverage Results" MODIFIED="1529851009513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex42.coverage" NAME="ex42 Coverage Results" MODIFIED="1529856365309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex18.coverage" NAME="ex18 Coverage Results" MODIFIED="1529852142229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex44e.coverage" NAME="ex44e Coverage Results" MODIFIED="1529857858637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex47.coverage" NAME="ex47 Coverage Results" MODIFIED="1529857878091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex24.coverage" NAME="ex24 Coverage Results" MODIFIED="1529852506457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+    <SUITE FILE_PATH="coverage/coding_sprint$ex15.coverage" NAME="ex15 Coverage Results" MODIFIED="1529851771798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python-test-exercises" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python-test-exercises/ex15.py" />
+        <option value="$PROJECT_DIR$/python-test-exercises/ex16.py" />
+        <option value="$PROJECT_DIR$/python-test-exercises/ex41.py" />
+        <option value="$PROJECT_DIR$/python-test-exercises/ex43.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coding-sprint" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coding-sprint" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/python-exercises" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ex51">
+    <configuration name="ex44e" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-test-exercises/ex44e.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex47" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-test-exercises/ex47.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex47_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-test-exercises/ex47_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex50" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-test-exercises/ex50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ex51" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coding-sprint" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-test-exercises/ex51.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ex44e" />
+      <item itemvalue="Python.ex47" />
+      <item itemvalue="Python.ex47_test" />
+      <item itemvalue="Python.ex50" />
+      <item itemvalue="Python.ex51" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex51" />
+        <item itemvalue="Python.ex50" />
+        <item itemvalue="Python.ex47_test" />
+        <item itemvalue="Python.ex47" />
+        <item itemvalue="Python.ex44e" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43dda26a-660e-448a-b86b-a39edcddde7b" name="Default" comment="" />
+      <created>1529850694979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529850694979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.299843" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17935579" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python-test-exercises/ex7.py</url>
+          <line>3</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex7.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex8.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex9.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex10.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex11.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex12.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex13.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex14.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex15.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex15_sample.txt" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex16.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex17.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex18.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex19.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex20.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex21.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex22.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex23.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex24.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex25.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex26.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex27.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex28.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex29.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex30.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex31.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex32.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex33.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex34.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex35.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex36.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex38.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex39.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex40.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex41.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex42.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex43.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex43_classes.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex44a.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex44b.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex44c.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex44d.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex44e.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex47.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex47_test.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex50.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex51.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/package_eg_test.py" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/text.txt" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/test.txt" />
+    <entry file="file://$PROJECT_DIR$/python-test-exercises/ex1.py" />
+  </component>
+</project>
